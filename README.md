@@ -1,10 +1,8 @@
 [![MasterHead](https://wallpapercave.com/wp/wp2234700.png)](https://upsydedown.io)
 <h1 align="center">Hello, I'm Chintan 👋</h1>
 <h3 align="center">A curious Frontend Developer</h3>
-<img align="center" src="giphy.gif" alt="gifs" width="400" srcset="">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upsydedown&label=Profile%20views&color=0e75b6&style=flat" alt="upsydedown" /> </p>
-
+<img align="right" src="giphy.gif" alt="gifs" width="350" srcset="">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upsydedown" alt="upsydedown" /></a> </p>
 
 - 🔭 My most recent project was [LinkedIN Replica](https://lnkd.in/d5eYZJCP)
