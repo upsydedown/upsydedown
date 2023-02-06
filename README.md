@@ -31,7 +31,7 @@ I am a technically proficient and passionate Frontend Developer located in Daman
 <code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
 
 
-## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
+## <img src="chat.gif" width="50px">Lets Connect!
 <code><a href="https://www.linkedin.com/in/chintansenapati/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="https://www.instagram.com/upsyde_down/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 <code><a href="https://in.pinterest.com/upsyde_down/"><img width="43px" src="https://img.icons8.com/fluent/48/000000/pinterest.png" title="Pinterest"/></a></code>
