@@ -1,33 +1,43 @@
-[![MasterHead](logo.png)](https://upsydedown.io)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=upsydedown&label=View%20Count:&color=ebe100&style=flat" alt="upsydedown" /> </p>
-<h1 align="center">Hi, I'm Chintan</h1>
-<h3 align="center">Curious Frontend Developer</h3>
+<h1 align = "center"><img src="cool.gif" width="55px"> Namaste, I'm Chintan! </h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upsydedown" alt="upsydedown" /></a> </p>
+I am a technically proficient and passionate Frontend Developer located in Daman, India. I have recently attained my Bachelor of Science degree in Computer Science & IT from Savitribai Phule Pune University, Pune.
 
-<img align="right" src="giphy.gif" alt="gifs" width="200" srcset="">
 
-- 🔭 My most recent project was [LinkedIN Replica](https://lnkd.in/d5eYZJCP)
+## <img src="laptop.gif" width="52px"> Experience: 
 
-- 🌱 I’m currently learning **Backend Development**
+- Former Frontend Developer at **Wildlife Trust OF India**.
+<br>
 
-- 📋 Current Project I'm planning to do **Instagram Replica**
-
-- 💬 Ask me about **React, Redux & JavaScript**
-
-- 📫 How to reach me **chintansenapati@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chintansenapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chintansenapati" height="30" width="40" /></a>
-<a href="https://instagram.com/upsyde_down" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="upsyde_down" height="30" width="40" /></a>
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=upsydedown&show_icons=true&theme=onedark&title_color=019a66&hide_border=true&locale=en&line_height=30" alt="upsydedown" />
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs?username=upsydedown&show_icons=true&theme=onedark&title_color=019a66&hide_border=true&locale=en&layout=default" alt="upsydedown" />
+  <br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
+<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/tailwindcss.png" title="TailwindCSS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/sass.png" title="Nodejs"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/php.png" title="PHP"/></code>
+<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
+<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upsydedown&show_icons=true&theme=tokyonight&title_color=ebe100&hide_border=true&locale=en&layout=compact" alt="upsydedown" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upsydedown&show_icons=true&theme=tokyonight&title_color=ebe100&hide_border=true&locale=en" alt="upsydedown" /></p>
+## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
+<code><a href="https://www.linkedin.com/in/chintansenapati/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+<code><a href="https://www.instagram.com/upsyde_down/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
+<code><a href="https://in.pinterest.com/upsyde_down/"><img width="43px" src="https://img.icons8.com/fluent/48/000000/pinterest.png" title="Pinterest"/></a></code>
+<code><a href="mailto:chintansenapati@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<br>
+##
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upsydedown&theme=cobalt&hide_border=true" alt="upsydedown" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=upsydedown&label=View%20Count:&color=019a66&style=flat" alt="upsydedown" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upsydedown&theme=dark" alt="upsydedown" /></p>
