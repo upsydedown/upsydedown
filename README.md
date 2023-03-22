@@ -9,8 +9,8 @@ I am a technically proficient and passionate Frontend Developer located in Daman
 <br>
 
 <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=upsydedown&show_icons=true&theme=onedark&title_color=019a66&hide_border=true&locale=en&line_height=30" alt="upsydedown" />
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs?username=upsydedown&show_icons=true&theme=onedark&title_color=019a66&hide_border=true&locale=en&layout=default" alt="upsydedown" />
+    <img src="https://github-readme-stats.vercel.app/api?username=upsydedown&show_icons=true&theme=gotham&title_color=019a66&hide_border=true&locale=en&line_height=30" alt="upsydedown" />
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upsydedown&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=default" alt="upsydedown" />
   <br>
 </p>
 
@@ -38,6 +38,6 @@ I am a technically proficient and passionate Frontend Developer located in Daman
 <code><a href="mailto:chintansenapati@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 <br>
 ##
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upsydedown&theme=cobalt&hide_border=true" alt="upsydedown" /></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=upsydedown&label=View%20Count:&color=019a66&style=flat" alt="upsydedown" /> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upsydedown&theme=gotham&hide_border=true" alt="upsydedown" /></p>
+<p align="center"><img src="https://visitcount.itsvg.in/api?id=upsydedown&icon=8&color=3" alt="upsydedown" /> </p>
 
