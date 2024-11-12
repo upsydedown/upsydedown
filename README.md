@@ -4,10 +4,9 @@ My code whispers stories, my designs bloom into experiences. I'm a human, yes, b
 
 ## <img src="laptop.gif" width="52px"> Experience: 
 
-- Currently working as a freelance developer at **Upwork**.
-- Formerly worked as a freelance UI Developer at **1021 Creative**.
-- Formerly worked as a freelance UI Developer at **AraniEcosteps**.
-- Former Frontend Developer at **Wildlife Trust OF India**.
+- Currently working as UI Developer, UI/UX Designer at **CornStarch Studio**.
+- Former Frontend Developer, Web Designer at **Five Minutes**.
+- Former Frontend Developer, UX Researcher at **Stealth Startup**
 
 <br>
 
