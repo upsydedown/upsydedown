@@ -6,7 +6,7 @@ My code whispers stories, my designs bloom into experiences. I'm a human, yes, b
 
 - Currently working as UI Developer, UI/UX Designer at **CornStarch Studio**.
 - Former Frontend Developer, Web Designer at **Five Minutes**.
-- Former Frontend Developer, UX Researcher at **Stealth Startup**
+- Former Frontend Developer, UX Researcher at **Stealth Startup.**
 
 <br>
 
