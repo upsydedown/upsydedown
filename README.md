@@ -1,12 +1,13 @@
 <h1 align = "center"><img src="cool.gif" width="55px"> Namaste, I'm Chintan! </h1>
 
-My code whispers stories, my designs bloom into experiences. I'm a human, yes, but one who navigates the world through the kaleidoscope of emotions and interactions. Madness? Perhaps, but it fuels my passion for nurturing designs into fruitful products. After all, we're all narratives, and mine's just one of thousands waiting to make a splash. So, trust me, the world would be a tad blander without this storyteller in the mix.
+I'm a Product Manager with 3+ years of experience launching 0-to-1 products, specializing in HealthTech, AI, and B2C platforms. I have a proven track record of shipping AI-powered conversational platforms , driving significant user acquisition (2,100% growth) , and optimizing funnel conversion (41% improvement). My technical background in Computer Science and Frontend Development enables deep, credible collaboration with engineering teams on complex products.
 
 ## <img src="laptop.gif" width="52px"> Experience: 
 
-- Currently working as UI Developer, UI/UX Designer at **CornStarch Studio**.
-- Former Frontend Developer, Web Designer at **Five Minutes**.
-- Former Frontend Developer, UX Researcher at **Stealth Startup.**
+- Currently working as a Product Manager at **NxtWave**.
+- Former Co-Founder and Product Lead at **CornStarch Design Studio**.
+- Former Associate Product Manager and APD at **VitalMa**.
+- Former Jr. Frontend Developer at E-commerce Stealth Startup.
 
 <br>
 
