@@ -5,8 +5,8 @@ I'm a Product Manager with 3+ years of experience launching 0-to-1 products, spe
 ## <img src="laptop.gif" width="52px"> Experience: 
 
 - Currently working as a Product Manager at **NxtWave**.
-- Former Co-Founder and Product Lead at **CornStarch Design Studio**.
-- Former Associate Product Manager and APD at **VitalMa**.
+- Product Manager at **CornStarch Design Studio**.
+- Former Associate Product Manager at **VitalMa**.
 - Former Jr. Frontend Developer at E-commerce Stealth Startup.
 
 <br>
