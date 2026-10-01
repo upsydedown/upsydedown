@@ -1,6 +1,6 @@
 <h1 align = "center"><img src="cool.gif" width="55px"> Namaste, I'm Chintan! </h1>
 
-I'm a Product Manager with 3+ years of experience launching 0-to-1 products, specializing in HealthTech, AI, and B2C platforms. I have a proven track record of shipping AI-powered conversational platforms , driving significant user acquisition (2,100% growth) , and optimizing funnel conversion (41% improvement). My technical background in Computer Science and Frontend Development enables deep, credible collaboration with engineering teams on complex products.
+I wrote code before I wrote specs. My first job was shipping frontend features on a sprint clock, no room to ask why any of it mattered. That question followed me anyway. So I left engineering for product, chasing the same itch: sit with users, watch where they actually get stuck, build the thing that fixes it instead of the thing everyone assumed they wanted. Four plus years in, across dating apps, hospitals and classrooms, I'm still doing exactly that. Still curious. Still wrong more often than I'd like, which is kind of the point.
 
 ## <img src="laptop.gif" width="52px"> Experience: 
 
